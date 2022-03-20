@@ -1,0 +1,3 @@
+a001mp :	4 Lenin street&Oktyabrskaya, 3 Oktyabrskaya street;
+a557ab :	5 Kosmonavtov street;
+a777km :	1 Lenin street, 2 Frunze street;
